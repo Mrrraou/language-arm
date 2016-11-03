@@ -39,4 +39,9 @@
     'word'
     'int'
     'string'
+    'org'
+    'open'
+    'close'
+    'ascii'
+    'byte'
   ]
